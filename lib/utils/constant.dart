@@ -1,0 +1,31 @@
+class Sizes {
+  static double size5 = 5;
+  static double size8 = 8;
+  static double size10 = 10;
+  static double size12 = 12;
+  static double size14 = 14;
+  static double size16 = 16;
+  static double size20 = 20;
+  static double size24 = 24;
+  static double size29 = 29;
+  static double size30 = 30;
+  static double size32 = 32;
+  static double size38 = 38;
+  static double size40 = 40;
+  static double size45 = 45;
+  static double size50 = 50;
+  static double size53 = 53;
+  static double size55 = 55;
+  static double size60 = 60;
+  static double size67 = 67;
+  static double size70 = 70;
+  static double size72 = 72;
+  static double size89 = 89;
+  static double size92 = 92;
+  static double size140 = 140;
+  static double size150 = 150;
+  static double size200 = 200;
+  static double size255 = 255;
+  static double size261 = 261;
+  static double size380 = 380;
+}
